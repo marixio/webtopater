@@ -99,7 +99,7 @@
     setInterval(updateTime, 1000);
     updateTime();
 </script>
-
+<script src="https://cdn.tailwindcss.com"></script>
 
 </body>
 
